@@ -69,3 +69,6 @@ You can explore the Power BI dashboards [here](https://github.com/MeghalBaile/Cr
 
 ---
 
+## 🖼️ Screenshot
+
+Here is how the dashboard looks [like:](https://github.com/MeghalBaile/Cricket_ESPN-Data-Analytics-Project/blob/main/Cricket%20Best%2011.png)
